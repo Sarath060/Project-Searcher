@@ -1,0 +1,3053 @@
+('D:\\6.Scrpit\\5.Python Projects\\GitHub '
+ 'Project\\Project-Searcher\\build\\Project_Search_App\\PYZ-00.pyz',
+ [('pkg_resources',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('ctypes',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('struct',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\struct.py',
+   'PYMODULE'),
+  ('distutils.util',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\util.py',
+   'PYMODULE'),
+  ('distutils.filelist',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\filelist.py',
+   'PYMODULE'),
+  ('distutils.debug',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\debug.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('distutils.file_util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\distutils\\file_util.py',
+   'PYMODULE'),
+  ('distutils.dir_util',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\dir_util.py',
+   'PYMODULE'),
+  ('py_compile',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\importlib\\metadata.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('typing',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\typing.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('contextlib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('configparser',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\configparser.py',
+   'PYMODULE'),
+  ('email',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email.utils',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('calendar',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\argparse.py',
+   'PYMODULE'),
+  ('shutil',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\gzip.py',
+   'PYMODULE'),
+  ('_compression',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_compression.py',
+   'PYMODULE'),
+  ('lzma',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\lzma.py',
+   'PYMODULE'),
+  ('bz2',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\bz2.py',
+   'PYMODULE'),
+  ('threading',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('copy',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\copy.py',
+   'PYMODULE'),
+  ('gettext',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\gettext.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('datetime',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\selectors.py',
+   'PYMODULE'),
+  ('random',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\random.py',
+   'PYMODULE'),
+  ('statistics',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\statistics.py',
+   'PYMODULE'),
+  ('decimal',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\decimal.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('contextvars',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\contextvars.py',
+   'PYMODULE'),
+  ('fractions',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\fractions.py',
+   'PYMODULE'),
+  ('numbers',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\numbers.py',
+   'PYMODULE'),
+  ('hashlib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('logging',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('signal',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\signal.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('ssl',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ssl.py',
+   'PYMODULE'),
+  ('base64',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\base64.py',
+   'PYMODULE'),
+  ('getopt',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\getopt.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('queue',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\queue.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('runpy',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\runpy.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\secrets.py',
+   'PYMODULE'),
+  ('hmac',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\netrc.py',
+   'PYMODULE'),
+  ('shlex',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\shlex.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('http.client',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('email.message',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('quopri',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\optparse.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('http.server',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('socketserver',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('html',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\tty.py',
+   'PYMODULE'),
+  ('glob',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\glob.py',
+   'PYMODULE'),
+  ('code',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\cmd.py',
+   'PYMODULE'),
+  ('difflib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\difflib.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\bisect.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('urllib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.header',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('csv',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('tokenize',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\token.py',
+   'PYMODULE'),
+  ('subprocess',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.archive_util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\distutils\\archive_util.py',
+   'PYMODULE'),
+  ('distutils.ccompiler',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('distutils.fancy_getopt',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('distutils.spawn',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\spawn.py',
+   'PYMODULE'),
+  ('distutils.dep_util',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\dep_util.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('string',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\string.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\uuid.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('imp',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\imp.py',
+   'PYMODULE'),
+  ('posixpath',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('genericpath',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('ntpath',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('inspect',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ast.py',
+   'PYMODULE'),
+  ('textwrap',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('tempfile',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('email.parser',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('plistlib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('platform',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\platform.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('stat',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\stat.py',
+   'PYMODULE'),
+  ('zipimport',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipfile',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('__future__',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\__future__.py',
+   'PYMODULE'),
+  ('stringprep',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('UI',
+   'D:\\6.Scrpit\\5.Python Projects\\GitHub Project\\Project-Searcher\\UI.py',
+   'PYMODULE'),
+  ('pandas',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.window',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_libs\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas._libs.tslibs',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_libs\\tslibs\\__init__.py',
+   'PYMODULE'),
+  ('numpy',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.nosetester',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('numpy.testing._private.noseclasses',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\_private\\noseclasses.py',
+   'PYMODULE'),
+  ('numpy.testing._private.decorators',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\_private\\decorators.py',
+   'PYMODULE'),
+  ('numpy.testing._private.parameterized',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\_private\\parameterized.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.compat._inspect',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\compat\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.machar',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\machar.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('pandas._version',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_version.py',
+   'PYMODULE'),
+  ('json',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('pandas.arrays',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.timedeltas',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.io.formats.format',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\format.py',
+   'PYMODULE'),
+  ('pandas.io.formats.csvs',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\csvs.py',
+   'PYMODULE'),
+  ('pandas.io.formats.string',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\string.py',
+   'PYMODULE'),
+  ('pandas.io.formats.html',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\html.py',
+   'PYMODULE'),
+  ('pandas.io.formats.latex',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\latex.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.multi',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\multi.py',
+   'PYMODULE'),
+  ('pandas.core.indexes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\util.py',
+   'PYMODULE'),
+  ('pandas.core.reshape',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.sorting',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\sorting.py',
+   'PYMODULE'),
+  ('pandas.core.ops.invalid',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\invalid.py',
+   'PYMODULE'),
+  ('pandas.core.ops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.ops.roperator',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\roperator.py',
+   'PYMODULE'),
+  ('pandas.core.ops.methods',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\methods.py',
+   'PYMODULE'),
+  ('pandas.core.ops.mask_ops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\mask_ops.py',
+   'PYMODULE'),
+  ('pandas.core.ops.docstrings',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\docstrings.py',
+   'PYMODULE'),
+  ('pandas.core.ops.array_ops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\array_ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expressions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\expressions.py',
+   'PYMODULE'),
+  ('pandas.core.computation',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.check',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\check.py',
+   'PYMODULE'),
+  ('pandas.compat._optional',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\compat\\_optional.py',
+   'PYMODULE'),
+  ('pandas.compat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\compat\\__init__.py',
+   'PYMODULE'),
+  ('distutils.version',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\distutils\\version.py',
+   'PYMODULE'),
+  ('pandas.core.ops.dispatch',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\dispatch.py',
+   'PYMODULE'),
+  ('pandas.core.ops.missing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.missing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.numeric',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.frozen',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\frozen.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.merge',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\merge.py',
+   'PYMODULE'),
+  ('pandas.core.internals',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\internals\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.managers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\internals\\managers.py',
+   'PYMODULE'),
+  ('pandas.core.internals.ops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\internals\\ops.py',
+   'PYMODULE'),
+  ('pandas.util._validators',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\_validators.py',
+   'PYMODULE'),
+  ('pandas.util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.util.testing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\testing.py',
+   'PYMODULE'),
+  ('pandas._testing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_testing.py',
+   'PYMODULE'),
+  ('pandas._config.localization',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_config\\localization.py',
+   'PYMODULE'),
+  ('pandas.core.util.hashing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\util\\hashing.py',
+   'PYMODULE'),
+  ('pandas.core.util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\util\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.internals.concat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\internals\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.dtype',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\dtype.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.array',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\array.py',
+   'PYMODULE'),
+  ('pandas.core.arraylike',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arraylike.py',
+   'PYMODULE'),
+  ('pandas.core.generic',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.tools.datetimes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\tools\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.tools',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\tools\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.tools.times',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\tools\\times.py',
+   'PYMODULE'),
+  ('pandas.io.clipboards',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\clipboards.py',
+   'PYMODULE'),
+  ('pandas.io.parsers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\parsers.py',
+   'PYMODULE'),
+  ('pandas.io.date_converters',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\date_converters.py',
+   'PYMODULE'),
+  ('pandas.io.clipboard',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('pandas.io.pickle',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\pickle.py',
+   'PYMODULE'),
+  ('pandas.compat.pickle_compat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\compat\\pickle_compat.py',
+   'PYMODULE'),
+  ('pandas.io.sql',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\sql.py',
+   'PYMODULE'),
+  ('sqlite3',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\sqlite3\\__init__.py',
+   'PYMODULE'),
+  ('sqlite3.dump',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\sqlite3\\dump.py',
+   'PYMODULE'),
+  ('sqlite3.dbapi2',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\sqlite3\\dbapi2.py',
+   'PYMODULE'),
+  ('pandas.io.pytables',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.pytables',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\pytables.py',
+   'PYMODULE'),
+  ('pandas.core.computation.common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\common.py',
+   'PYMODULE'),
+  ('pandas.core.computation.scope',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\scope.py',
+   'PYMODULE'),
+  ('pandas.core.computation.ops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.computation.eval',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\eval.py',
+   'PYMODULE'),
+  ('pandas.core.computation.engines',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\engines.py',
+   'PYMODULE'),
+  ('pandas.core.computation.align',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\align.py',
+   'PYMODULE'),
+  ('pandas.core.computation.expr',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\expr.py',
+   'PYMODULE'),
+  ('pandas.compat.chainmap',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\compat\\chainmap.py',
+   'PYMODULE'),
+  ('pandas.io',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.gbq',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\gbq.py',
+   'PYMODULE'),
+  ('pandas.io.formats.excel',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\excel.py',
+   'PYMODULE'),
+  ('pandas.io.excel',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlwt',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_xlwt.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlsxwriter',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_xlsxwriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._util',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_util.py',
+   'PYMODULE'),
+  ('pandas.io.excel._openpyxl',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_openpyxl.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odswriter',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_odswriter.py',
+   'PYMODULE'),
+  ('pandas.io.excel._base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_base.py',
+   'PYMODULE'),
+  ('pandas.io.excel._xlrd',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_xlrd.py',
+   'PYMODULE'),
+  ('pandas.io.excel._pyxlsb',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_pyxlsb.py',
+   'PYMODULE'),
+  ('pandas.io.excel._odfreader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\excel\\_odfreader.py',
+   'PYMODULE'),
+  ('pandas.io.formats.css',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\css.py',
+   'PYMODULE'),
+  ('pandas.io.formats._color_data',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\_color_data.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.computation.parsing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\parsing.py',
+   'PYMODULE'),
+  ('pandas.core.window.indexers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.series',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\series.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.reshape',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\reshape.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.generic',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.tile',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\tile.py',
+   'PYMODULE'),
+  ('pandas.core.util.numba_',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\util\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.groupby',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\groupby.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.grouper',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\grouper.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.categorical',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.ops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\ops.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.numba_',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.groupby.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\base.py',
+   'PYMODULE'),
+  ('pandas.plotting',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._misc',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._core',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_core.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\__init__.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.tools',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\tools.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.compat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\compat.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.misc',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\misc.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.style',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\style.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.hist',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\hist.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.core',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\core.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.timeseries',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\timeseries.py',
+   'PYMODULE'),
+  ('pandas.tseries.frequencies',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\tseries\\frequencies.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.converter',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\converter.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\relativedelta.py',
+   'PYMODULE'),
+  ('dateutil',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\rrule.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\parser\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\parser\\isoparser.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\parser\\_parser.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\tz\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\tz\\tz.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\zoneinfo\\__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\tz\\win.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\tz\\_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\tz\\_common.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\easter.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\_version.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\dateutil\\_common.py',
+   'PYMODULE'),
+  ('six',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('pandas.plotting._matplotlib.boxplot',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\plotting\\_matplotlib\\boxplot.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.accessors',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\accessors.py',
+   'PYMODULE'),
+  ('pandas.core.aggregation',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\aggregation.py',
+   'PYMODULE'),
+  ('pandas.core.resample',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\resample.py',
+   'PYMODULE'),
+  ('pandas.core.window',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.window.rolling',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\rolling.py',
+   'PYMODULE'),
+  ('pandas.core.window.numba_',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\numba_.py',
+   'PYMODULE'),
+  ('pandas.core.window.common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\common.py',
+   'PYMODULE'),
+  ('pandas.core.window.expanding',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\expanding.py',
+   'PYMODULE'),
+  ('pandas.core.window.ewm',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\window\\ewm.py',
+   'PYMODULE'),
+  ('pandas.core.shared_docs',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\shared_docs.py',
+   'PYMODULE'),
+  ('pandas.core.flags',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\flags.py',
+   'PYMODULE'),
+  ('pandas.core.indexing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.inference',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\inference.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\dataclasses.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\base.py',
+   'PYMODULE'),
+  ('pandas.core.internals.blocks',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\internals\\blocks.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.transforms',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\array_algos\\transforms.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\array_algos\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.masked_reductions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\array_algos\\masked_reductions.py',
+   'PYMODULE'),
+  ('pandas.core.array_algos.replace',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\array_algos\\replace.py',
+   'PYMODULE'),
+  ('pandas.core.frame',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\frame.py',
+   'PYMODULE'),
+  ('pandas.core.apply',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\apply.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.pivot',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\pivot.py',
+   'PYMODULE'),
+  ('pandas.io.parquet',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\parquet.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._arrow_utils',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\_arrow_utils.py',
+   'PYMODULE'),
+  ('pandas.io.feather_format',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\feather_format.py',
+   'PYMODULE'),
+  ('pandas.io.stata',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\stata.py',
+   'PYMODULE'),
+  ('pandas.io.formats.style',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\style.py',
+   'PYMODULE'),
+  ('pandas.api.types',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\api\\types\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\api.py',
+   'PYMODULE'),
+  ('pandas.io.formats.info',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\info.py',
+   'PYMODULE'),
+  ('pandas.io.formats.console',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\console.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.melt',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\melt.py',
+   'PYMODULE'),
+  ('pandas.core.tools.numeric',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\tools\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.internals.construction',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\internals\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.groupby',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\groupby\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.interval',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.extension',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\extension.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._mixins',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\_mixins.py',
+   'PYMODULE'),
+  ('pandas.util._exceptions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\_exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.category',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\category.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.range',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\range.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.period',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\period.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimelike',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core.tools.timedeltas',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\tools\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.strings',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\strings\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.strings.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\strings\\base.py',
+   'PYMODULE'),
+  ('pandas.core.strings.accessor',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\strings\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.indexers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexers.py',
+   'PYMODULE'),
+  ('pandas.core.accessor',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.concat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.cast',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\cast.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_arrow',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\string_arrow.py',
+   'PYMODULE'),
+  ('pandas.util._decorators',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\_decorators.py',
+   'PYMODULE'),
+  ('pandas.errors',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\errors\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.formats.printing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\printing.py',
+   'PYMODULE'),
+  ('pandas.io.common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\common.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.concat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\concat.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.timedeltas',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\timedeltas.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.datetimes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.indexes.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\indexes\\api.py',
+   'PYMODULE'),
+  ('pandas.core.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\base.py',
+   'PYMODULE'),
+  ('pandas.io.formats',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\formats\\__init__.py',
+   'PYMODULE'),
+  ('pandas._typing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_typing.py',
+   'PYMODULE'),
+  ('pandas._config.config',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_config\\config.py',
+   'PYMODULE'),
+  ('pandas.core.ops.common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\ops\\common.py',
+   'PYMODULE'),
+  ('pandas.core.construction',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\construction.py',
+   'PYMODULE'),
+  ('pandas.core.common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\common.py',
+   'PYMODULE'),
+  ('pandas.core.arrays._ranges',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\_ranges.py',
+   'PYMODULE'),
+  ('pandas.core.algorithms',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\algorithms.py',
+   'PYMODULE'),
+  ('pandas.core.nanops',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\nanops.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.missing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\missing.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.generic',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\generic.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.dtypes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\dtypes.py',
+   'PYMODULE'),
+  ('pytz',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pytz\\__init__.py',
+   'PYMODULE'),
+  ('pytz.tzfile',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pytz\\tzfile.py',
+   'PYMODULE'),
+  ('pytz.tzinfo',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pytz\\tzinfo.py',
+   'PYMODULE'),
+  ('pytz.lazy',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pytz\\lazy.py',
+   'PYMODULE'),
+  ('pytz.exceptions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pytz\\exceptions.py',
+   'PYMODULE'),
+  ('pandas.core.dtypes.common',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\dtypes\\common.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy.function',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\compat\\numpy\\function.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.string_',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\string_.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.period',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\period.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numpy_',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\numpy_.py',
+   'PYMODULE'),
+  ('pandas.core.strings.object_array',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\strings\\object_array.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.masked',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\masked.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.interval',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\interval.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.integer',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\integer.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.numeric',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\numeric.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.floating',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\floating.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimes',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\datetimes.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.categorical',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\categorical.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.boolean',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\boolean.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\base.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.datetimelike',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\datetimelike.py',
+   'PYMODULE'),
+  ('pandas.core',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\__init__.py',
+   'PYMODULE'),
+  ('pandas.testing',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\testing.py',
+   'PYMODULE'),
+  ('pandas.util._tester',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\_tester.py',
+   'PYMODULE'),
+  ('pandas.io.json',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\json\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.json._table_schema',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\json\\_table_schema.py',
+   'PYMODULE'),
+  ('pandas.io.json._normalize',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\json\\_normalize.py',
+   'PYMODULE'),
+  ('pandas.io.json._json',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\json\\_json.py',
+   'PYMODULE'),
+  ('pandas.io.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\api.py',
+   'PYMODULE'),
+  ('pandas.io.spss',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\spss.py',
+   'PYMODULE'),
+  ('pandas.io.sas',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\sas\\__init__.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sasreader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\sas\\sasreader.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas7bdat',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\sas\\sas7bdat.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_constants',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\sas\\sas_constants.py',
+   'PYMODULE'),
+  ('pandas.io.sas.sas_xport',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\sas\\sas_xport.py',
+   'PYMODULE'),
+  ('pandas.io.orc',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\orc.py',
+   'PYMODULE'),
+  ('pandas.io.html',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\io\\html.py',
+   'PYMODULE'),
+  ('pandas.util._print_versions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\util\\_print_versions.py',
+   'PYMODULE'),
+  ('pandas.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\api\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.indexers',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\api\\indexers\\__init__.py',
+   'PYMODULE'),
+  ('pandas.api.extensions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\api\\extensions\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.reshape.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\reshape\\api.py',
+   'PYMODULE'),
+  ('pandas.core.computation.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\computation\\api.py',
+   'PYMODULE'),
+  ('pandas.tseries.offsets',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\tseries\\offsets.py',
+   'PYMODULE'),
+  ('pandas.tseries',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\tseries\\__init__.py',
+   'PYMODULE'),
+  ('pandas.tseries.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\tseries\\api.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.accessor',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\accessor.py',
+   'PYMODULE'),
+  ('pandas.core.arrays.sparse.scipy_sparse',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\arrays\\sparse\\scipy_sparse.py',
+   'PYMODULE'),
+  ('pandas.core.api',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\api.py',
+   'PYMODULE'),
+  ('pandas.core.config_init',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\core\\config_init.py',
+   'PYMODULE'),
+  ('pandas._config',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_config\\__init__.py',
+   'PYMODULE'),
+  ('pandas._config.display',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_config\\display.py',
+   'PYMODULE'),
+  ('pandas._config.dates',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_config\\dates.py',
+   'PYMODULE'),
+  ('pandas._libs',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\_libs\\__init__.py',
+   'PYMODULE'),
+  ('pandas.compat.numpy',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\pandas\\compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('pathlib',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\pathlib.py',
+   'PYMODULE'),
+  ('os',
+   'd:\\6.scrpit\\5.python projects\\python 3.9.0\\lib\\os.py',
+   'PYMODULE'),
+  ('PyQt5.uic',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.objcreator',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\objcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.exceptions',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\exceptions.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.loader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Loader\\loader.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Loader\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Loader.qobjectcreator',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Loader\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.uiparser',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\uiparser.py',
+   'PYMODULE'),
+  ('PyQt5.uic.properties',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\properties.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.ascii_upper',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v3\\ascii_upper.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v3\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.icon_cache',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\icon_cache.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.string_io',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v2\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v2\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.string_io',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v3\\string_io.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.compiler',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\compiler.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qobjectcreator',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qobjectcreator.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.as_string',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v2\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.as_string',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v3\\as_string.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.qtproxies',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\qtproxies.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v2.proxy_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v2\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.proxy_metaclass',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\proxy_metaclass.py',
+   'PYMODULE'),
+  ('PyQt5.uic.port_v3.proxy_base',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\port_v3\\proxy_base.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.misc',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\misc.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler.indenter',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\indenter.py',
+   'PYMODULE'),
+  ('PyQt5.uic.Compiler',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\uic\\Compiler\\__init__.py',
+   'PYMODULE'),
+  ('PyQt5',
+   'd:\\6.scrpit\\5.python projects\\python '
+   '3.9.0\\lib\\site-packages\\PyQt5\\__init__.py',
+   'PYMODULE')])
